@@ -16,7 +16,7 @@ function SearchPage() {
             <Button variant="outlined">Rooms and beds</Button>
             <Button variant="outlined">More filters</Button>
             </div>
-            <SearchResult />
+            {/* <SearchResult /> */}
         </div>
     )
 }
